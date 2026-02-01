@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @ArsalanFSS
-- 👀 I’m interested in programming
-- 🌱 Dumbass trying to learn Python, C++|C# 
-- 📫 nootcheesecake
+
+ Dumbass trying to learn how to code
 
 <!---
 ArsalanFSS/ArsalanFSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
